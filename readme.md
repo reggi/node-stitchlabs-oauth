@@ -1,4 +1,4 @@
-# StitchLabs OAuth
+# StitchLabs oAuth
 
 Simple Node server that runs and gets the access token for a specific StitchLabs user.
 
